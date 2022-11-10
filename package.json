@@ -16,6 +16,6 @@
   "author": "Jonathan Moratelli de Carvalho",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.5"
+    "electron": "^18.3.7"
   }
 }
